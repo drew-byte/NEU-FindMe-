@@ -1,6 +1,7 @@
 (function() {
   "use strict"; // Start of use strict
 
+  
   function initParallax() {
 
     if (!('requestAnimationFrame' in window)) return;
